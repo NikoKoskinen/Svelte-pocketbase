@@ -1,0 +1,2 @@
+# Svelte-pocketbase
+kauppalistasovellus koodattuna sveltekitillä ja pocketbase-taustajärjestelmällä
